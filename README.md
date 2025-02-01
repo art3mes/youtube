@@ -1,5 +1,1 @@
-# youtube-copy
-a static copy of youtube.com
-
-
-This copy of youtube has been deployed on Netlify. You can view it using this link [HERE](https://cool-paletas-2fa6b6.netlify.app)
+![image](https://github.com/user-attachments/assets/6987befa-8d47-4410-917b-79e96150d1f5)
